@@ -8,6 +8,7 @@ void add() {
 
 void sub(){
      cout<<"This is minus function"<<endl;
+     cout<<"We can subtract 2 integers"<<endl;
 }
 
 int main(){
