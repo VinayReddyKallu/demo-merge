@@ -6,6 +6,10 @@ void add() {
     cout<<"We can add 2 integers"<<endl;
 }
 
+void sub(){
+     cout<<"This is minus function"<<endl;
+}
+
 int main(){
   
     add();
