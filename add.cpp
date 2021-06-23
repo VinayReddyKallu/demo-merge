@@ -13,6 +13,10 @@ void sub(){
      cout<<"We can subtract 2 integers"<<endl;
 }
 
+void mul(){
+    cout<<"This is multiply function"<<endl;
+}
+
 int main(){
   
     add();
